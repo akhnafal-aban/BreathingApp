@@ -37,9 +37,7 @@ A mood-first iOS wellness app built for **Apple Developer Academy Challenge 1**.
 
 ## Screenshots
 
-| Home | Breathing | Music | Movement |
-| --- | --- | --- | --- |
-| ![Home](Docs/home.png) | ![Breathing](Docs/breathing.png) | ![Music](Docs/music.png) | ![Movement](Docs/movement.png) |
+![Home](Docs/home.png)
 
 ---
 
